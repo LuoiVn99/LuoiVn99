@@ -1,0 +1,1 @@
+print('https://raw.githubusercontent.com/LuoiVn99/LuoiVn99/main/Kaitun.lua.txt')
